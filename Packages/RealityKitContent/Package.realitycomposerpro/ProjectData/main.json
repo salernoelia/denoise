@@ -1,0 +1,26 @@
+{
+  "pathsToIds" : {
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/Cube.usda" : "25C21827-8CAC-434A-A73A-DB4DDD59CD6A",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/ExhibitionScene-old.usda" : "79EF2CDC-A7AA-458F-8568-8F446AC082AA",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/ExhibitionScene.usda" : "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/Galaxy.usda" : "0CE8BA3C-4853-4621-8702-0DD0EC17E337",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/Galaxy\/GalaxyScene.usda" : "34BE46A8-FA8D-49E4-B2CF-3CB1E6B3FAB5",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/Galaxy\/Untitled Scene.usda" : "09630240-AD4B-4EC8-845D-4F07EDC62F2D",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/Galaxy\/Untitled%20Scene.usda" : "AF832E6C-F9C6-430E-8CCE-B98FB32C286B",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/GalaxyScene.usda" : "952BA370-8552-4192-B632-454C4CEDC6AE",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/Immersive.usda" : "C6A7F375-BFE9-46E0-9EA6-1A6B150F43FD",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/Untitled Scene 1.usda" : "913811BF-650B-4F19-BEB0-7D17F5FEC81E",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/Untitled Scene 2.usda" : "19F0361F-4082-42D6-A836-DAD62AD487EB",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/Untitled Scene.usda" : "B03EE836-3C7A-4DE1-B3E5-33C9D47365D8",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/Untitled%20Scene%201.usda" : "22DAE987-03B1-4693-872D-E506BFEAF784",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/Untitled%20Scene%202.usda" : "62A848CE-9866-456F-B189-5A6821140DD7",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/Untitled%20Scene.usda" : "BDAC7E06-DB98-47E1-AE4D-092AECD4D6D7",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/aboveGround.usda" : "FF885FB4-FD78-4B1B-9881-3FEC636534A1",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/elevatorScene.usda" : "23F3AADE-4289-4CE4-987B-83E4DC8D461C",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/main.usda" : "F391FCAE-0DB9-432A-8737-033931F626ED",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/root.usda" : "DF3D7E93-6AC8-462A-8BF4-CFF0DB640981",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/satellites.usda" : "38836A5B-8442-41EB-9990-7E923DA459B0",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/v4-converted\/Untitled%20Scene.usda" : "1CC04017-8488-415F-8D7C-7FDB84CDA7AF",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/xenon.usda" : "8CE7BA2D-69C3-4B7F-B917-78B7D91D0030"
+  }
+}

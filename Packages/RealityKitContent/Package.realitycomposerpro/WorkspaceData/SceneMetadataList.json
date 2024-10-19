@@ -1,0 +1,2477 @@
+{
+  "083AB2F1-CB46-4704-BE72-6E666DAF97DB" : {
+    "objectMetadataList" : [
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startDarkMatterMap",
+        "Track"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startXenon",
+        "Track3"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startElevator",
+        "Track"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startDarkMatterMap",
+        "Track6"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startGalaxyOrbit",
+        "Track3"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "sceneSetup",
+        "Track4"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "elevator_lofi",
+        "elevator_shaft_lofi",
+        "Cube_001"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startSatellitesOrbit",
+        "Track8"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startDarkMatterMap",
+        "Track3"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startMatterReflection",
+        "Track4"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startSatellitesOrbit",
+        "Track4"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startSatellitesOrbit",
+        "Track6"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startSatellitesOrbit",
+        "Track"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "elevator_lofi",
+        "Materials",
+        "defaultMaterial"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "SkyDome"
+      ],
+      {
+        "disallowsFraming" : true,
+        "isExpanded" : false,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startGalaxyOrbit",
+        "Track14"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "close_hoist_doors",
+        "Track"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startMatterFilter",
+        "Track7"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "root",
+        "SkySphere"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startGravitationalLensing",
+        "Track9"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "uploads_files_4471965_milky_way",
+        "_materials"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startMatterPasstrough",
+        "Track2"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startDarkMatterMap",
+        "Track5"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "sceneSetup",
+        "Track8"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startMatterSimulation",
+        "Track8"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "close_hoist_doors",
+        "Track2"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startElevatorRide",
+        "Track"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "sceneSetup",
+        "Track7"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "sceneSetup",
+        "Track6"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "s",
+        "Track4"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startMatterPasstrough",
+        "Track3"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startGalaxyOrbit",
+        "Track10"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "elevator_lofi",
+        "Cube"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startMatterFilter",
+        "Track6"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "s",
+        "Track2"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startGravitationalLensing",
+        "Track3"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startMatterFilter"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "closeHoistDoors"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startGalaxyOrbit",
+        "Track4"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startMatterPasstrough"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startGalaxyOrbit",
+        "Track7"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startGalaxyOrbit",
+        "Track12"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startDarkMatterMap"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "aboveGroundScene",
+        "hoist_v4",
+        "SpotLight_8"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "s",
+        "Track3"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startSatellitesOrbit",
+        "Track5"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startElevator",
+        "Track6"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startGalaxyOrbit",
+        "Track13"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startXenon"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startMatterSimulation",
+        "Track5"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startMatterFilter",
+        "Track2"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startGravitationalLensing",
+        "Track6"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startXenon",
+        "Track7"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "elevatorScene",
+        "matter_passtrough",
+        "Cube_001"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "SkySphere_1"
+      ],
+      {
+        "disallowsFraming" : true,
+        "isExpanded" : false,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startMatterSimulation",
+        "Track"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "elevatorScene",
+        "matter_passtrough",
+        "Sphere",
+        "darkMatter"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "root"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startGalaxy",
+        "Track2"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "w",
+        "Track"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "elevator_lofi",
+        "startElevator",
+        "Track2"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "s",
+        "Track"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startGalaxyOrbit",
+        "Track8"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startDarkMatterMap",
+        "Track7"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "elevator_lofi",
+        "startElevator",
+        "Track"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "SkySphere_mat"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startXenon",
+        "Track6"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startGravitationalLensing",
+        "Track7"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere"
+      ],
+      {
+        "disallowsFraming" : false,
+        "isExpanded" : false,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "elevator_lofi",
+        "elevator_shaft_lofi",
+        "Materials"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "open_hoist_doors",
+        "Track2"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "elevator_lofi",
+        "Material"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "sceneSetup"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startMatterFilter",
+        "Track"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startMatterReflection",
+        "Track7"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startElevator",
+        "Track4"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "galaxy_v4",
+        "Sketchfab_model",
+        "Geode",
+        "Object_2"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "sceneSetup",
+        "Track3"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startMatterReflection",
+        "Track"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startSatellitesOrbit",
+        "Track2"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startGravitationalLensing",
+        "Track2"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "Old_Elevator",
+        "Meshes"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "elevator_lofi",
+        "Timeline",
+        "Track"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startXenon",
+        "Track"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "Old_Elevator",
+        "Meshes",
+        "Sketchfab_model",
+        "ce24f78e4d514590a060a8baebf9dec7_fbx",
+        "RootNode"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startMatterFilter",
+        "Track3"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startMatterFilter",
+        "Track4"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startSatellitesOrbit",
+        "Track3"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startMatterReflection",
+        "Track5"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "elevatorHall_v1",
+        "SkySphere"
+      ],
+      {
+        "disallowsFraming" : true,
+        "isExpanded" : false,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startElevator",
+        "Track2"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "hoist_v4",
+        "left_door_001"
+      ],
+      {
+        "disallowsFraming" : false,
+        "isExpanded" : false,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startGalaxyOrbit",
+        "Track6"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startMatterSimulation"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startGalaxyOrbit",
+        "Track15"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startGalaxyOrbit",
+        "Track2"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "galaxy_v4",
+        "galaxy"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "uploads_files_4471965_milky_way",
+        "Cube"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startMatterReflection",
+        "Track2"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startGalaxy",
+        "Track"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startDarkMatterMap",
+        "Track4"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "open_hoist_doors",
+        "Track"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "sceneSetup",
+        "Track"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startGravitationalLensing",
+        "Track10"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "uploads_files_4471965_milky_way",
+        "Camera"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "sceneSetup",
+        "Track5"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startGalaxyOrbit",
+        "Track"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "sceneSetup",
+        "Track9"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "Old_Elevator",
+        "Meshes",
+        "Sketchfab_model"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "elevator_lofi",
+        "Materials"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "aboveGroundScene",
+        "elevator_shaft_v4",
+        "_materials",
+        "Material_001"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startGalaxyOrbit",
+        "Track5"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "sceneSetup",
+        "Track2"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "Timeline",
+        "Track2"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "elevatorScene",
+        "galaxy_v4",
+        "galaxy"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "elevatorHall_v1",
+        "glass_1"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "Old_Elevator",
+        "Meshes",
+        "Sketchfab_model",
+        "ce24f78e4d514590a060a8baebf9dec7_fbx"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startMatterSimulation",
+        "Track6"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "aboveGroundScene",
+        "industrial_hall_v4"
+      ],
+      {
+        "isExpanded" : false,
+        "isLocked" : false,
+        "selectedAudioFilePrim" : {
+          "string" : "\/SkySphere\/aboveGroundScene\/industrial_hall_v4\/buzzingLights_mp3"
+        }
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startGalaxyRotation",
+        "Track"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startMatterSimulation",
+        "Track2"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startMatterFilter",
+        "Track5"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "openHoistDoors",
+        "Track3"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startElevator",
+        "Track5"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "openHoistDoors"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startMatterFilter",
+        "Track8"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "Old_Elevator",
+        "Meshes",
+        "Sketchfab_model",
+        "ce24f78e4d514590a060a8baebf9dec7_fbx",
+        "RootNode",
+        "Base"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startGravitationalLensing",
+        "Track5"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "openHoistDoors",
+        "Track2"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startMatterPasstrough",
+        "Track"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startGravitationalLensing"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startElevator",
+        "Track3"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "Old_Elevator",
+        "Meshes",
+        "Sketchfab_model",
+        "ce24f78e4d514590a060a8baebf9dec7_fbx",
+        "RootNode",
+        "Base",
+        "Base_Material__0_0"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "elevator_lofi",
+        "startElevator"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startGalaxyOrbit",
+        "Track11"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startSatellitesOrbit"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startElevator"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "closeHoistDoors",
+        "Track2"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startMatterSimulation",
+        "Track4"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startGravitationalLensing",
+        "Track4"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startDarkMatterMap",
+        "Track2"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "Old_Elevator",
+        "Materials"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startGalaxy",
+        "Track4"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startGalaxyOrbit",
+        "Track9"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "elevator_lofi",
+        "SpatialAudio"
+      ],
+      {
+        "isExpanded" : false,
+        "isLocked" : false,
+        "selectedAudioFilePrim" : {
+          "string" : "\/elevator_lofi\/New_Audio_File"
+        }
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "openHoistDoors",
+        "Track"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startMatterSimulation",
+        "Track3"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "aboveGroundScene",
+        "industrial_hall_v4",
+        "_materials",
+        "light_bar"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "elevator_lofi",
+        "elevator_shaft_lofi"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startGalaxy",
+        "Track3"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "closeHoistDoors",
+        "Track"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startGalaxyOrbit"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startSatellitesOrbit",
+        "Track7"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "elevatorScene",
+        "satellites"
+      ],
+      {
+        "disallowsFraming" : false,
+        "isExpanded" : false,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startGravitationalLensing",
+        "Track8"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "Timeline",
+        "Track"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "elevatorScene",
+        "matter_reflection",
+        "Cube"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startMatterSimulation",
+        "Track7"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startXenon",
+        "Track2"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "083AB2F1-CB46-4704-BE72-6E666DAF97DB",
+        "SkySphere",
+        "startGravitationalLensing",
+        "Track"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      }
+    ]
+  },
+  "09630240-AD4B-4EC8-845D-4F07EDC62F2D" : {
+    "objectMetadataList" : [
+      [
+        "09630240-AD4B-4EC8-845D-4F07EDC62F2D",
+        "Root",
+        "MMorkeyy2_Galaxy"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "09630240-AD4B-4EC8-845D-4F07EDC62F2D",
+        "Root",
+        "MMorkeyy2_Galaxy",
+        "Geom"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "09630240-AD4B-4EC8-845D-4F07EDC62F2D",
+        "Root",
+        "MMorkeyy2_Galaxy",
+        "Materials",
+        "Material_002"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "09630240-AD4B-4EC8-845D-4F07EDC62F2D",
+        "Root"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "09630240-AD4B-4EC8-845D-4F07EDC62F2D",
+        "Root",
+        "MMorkeyy2_Galaxy",
+        "Materials"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      }
+    ]
+  },
+  "0CE8BA3C-4853-4621-8702-0DD0EC17E337" : {
+    "objectMetadataList" : [
+      [
+        "0CE8BA3C-4853-4621-8702-0DD0EC17E337",
+        "Root"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "0CE8BA3C-4853-4621-8702-0DD0EC17E337",
+        "Root",
+        "Galaxy_Material__65_0"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      }
+    ]
+  },
+  "19F0361F-4082-42D6-A836-DAD62AD487EB" : {
+    "objectMetadataList" : [
+      [
+        "19F0361F-4082-42D6-A836-DAD62AD487EB",
+        "Root"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      }
+    ]
+  },
+  "1CC04017-8488-415F-8D7C-7FDB84CDA7AF" : {
+    "objectMetadataList" : [
+      [
+        "1CC04017-8488-415F-8D7C-7FDB84CDA7AF",
+        "Root"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      }
+    ]
+  },
+  "22DAE987-03B1-4693-872D-E506BFEAF784" : {
+    "objectMetadataList" : [
+      [
+        "22DAE987-03B1-4693-872D-E506BFEAF784",
+        "Root"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      }
+    ]
+  },
+  "25C21827-8CAC-434A-A73A-DB4DDD59CD6A" : {
+    "objectMetadataList" : [
+      [
+        "25C21827-8CAC-434A-A73A-DB4DDD59CD6A",
+        "Root"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      }
+    ]
+  },
+  "34BE46A8-FA8D-49E4-B2CF-3CB1E6B3FAB5" : {
+    "objectMetadataList" : [
+      [
+        "34BE46A8-FA8D-49E4-B2CF-3CB1E6B3FAB5",
+        "Root",
+        "Galaxy",
+        "Meshes",
+        "Sketchfab_model",
+        "a76a404306c24e12b5edf6421ae7203f_fbx",
+        "Object_2"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "34BE46A8-FA8D-49E4-B2CF-3CB1E6B3FAB5",
+        "Root",
+        "Galaxy",
+        "Meshes",
+        "Sketchfab_model",
+        "a76a404306c24e12b5edf6421ae7203f_fbx",
+        "Object_2",
+        "RootNode",
+        "Galaxy"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "34BE46A8-FA8D-49E4-B2CF-3CB1E6B3FAB5",
+        "Root",
+        "Galaxy",
+        "Meshes",
+        "Sketchfab_model",
+        "a76a404306c24e12b5edf6421ae7203f_fbx",
+        "Object_2",
+        "RootNode",
+        "Galaxy",
+        "Galaxy_Material__65_0"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "34BE46A8-FA8D-49E4-B2CF-3CB1E6B3FAB5",
+        "Root",
+        "Galaxy",
+        "Meshes",
+        "Sketchfab_model",
+        "a76a404306c24e12b5edf6421ae7203f_fbx",
+        "Object_2",
+        "RootNode",
+        "Sphere001"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "34BE46A8-FA8D-49E4-B2CF-3CB1E6B3FAB5",
+        "Root",
+        "Galaxy"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "34BE46A8-FA8D-49E4-B2CF-3CB1E6B3FAB5",
+        "Root",
+        "Galaxy",
+        "Meshes",
+        "Sketchfab_model",
+        "a76a404306c24e12b5edf6421ae7203f_fbx",
+        "Object_2",
+        "RootNode",
+        "Sphere001",
+        "Sphere001_02___Default_0"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "34BE46A8-FA8D-49E4-B2CF-3CB1E6B3FAB5",
+        "Root"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "34BE46A8-FA8D-49E4-B2CF-3CB1E6B3FAB5",
+        "Root",
+        "Galaxy",
+        "Meshes"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "34BE46A8-FA8D-49E4-B2CF-3CB1E6B3FAB5",
+        "Root",
+        "Galaxy",
+        "Meshes",
+        "Sketchfab_model"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "34BE46A8-FA8D-49E4-B2CF-3CB1E6B3FAB5",
+        "Root",
+        "GalaxyMat"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "34BE46A8-FA8D-49E4-B2CF-3CB1E6B3FAB5",
+        "Root",
+        "Galaxy",
+        "Materials",
+        "_2___Default"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "34BE46A8-FA8D-49E4-B2CF-3CB1E6B3FAB5",
+        "Root",
+        "Galaxy",
+        "Meshes",
+        "Sketchfab_model",
+        "a76a404306c24e12b5edf6421ae7203f_fbx"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "34BE46A8-FA8D-49E4-B2CF-3CB1E6B3FAB5",
+        "Root",
+        "Galaxy",
+        "Materials"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "34BE46A8-FA8D-49E4-B2CF-3CB1E6B3FAB5",
+        "Root",
+        "Galaxy",
+        "Meshes",
+        "Sketchfab_model",
+        "a76a404306c24e12b5edf6421ae7203f_fbx",
+        "Object_2",
+        "RootNode"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      }
+    ]
+  },
+  "38836A5B-8442-41EB-9990-7E923DA459B0" : {
+    "objectMetadataList" : [
+      [
+        "38836A5B-8442-41EB-9990-7E923DA459B0",
+        "Root",
+        "HubbleTelescope",
+        "_root",
+        "alpha_tex01"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "38836A5B-8442-41EB-9990-7E923DA459B0",
+        "Root",
+        "HubbleTelescope",
+        "_root",
+        "foil_gold"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "38836A5B-8442-41EB-9990-7E923DA459B0",
+        "Root",
+        "HubbleTelescope",
+        "_root",
+        "tex_01"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "38836A5B-8442-41EB-9990-7E923DA459B0",
+        "Root",
+        "HubbleTelescope",
+        "_root"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "38836A5B-8442-41EB-9990-7E923DA459B0",
+        "Root",
+        "HubbleTelescope",
+        "_root",
+        "shiny_panel"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "38836A5B-8442-41EB-9990-7E923DA459B0",
+        "Root",
+        "HubbleTelescope",
+        "_root",
+        "foil_silver"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "38836A5B-8442-41EB-9990-7E923DA459B0",
+        "Root",
+        "HubbleTelescope",
+        "_root",
+        "AO_1"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "38836A5B-8442-41EB-9990-7E923DA459B0",
+        "Root",
+        "HubbleTelescope",
+        "_root",
+        "AO_light"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "38836A5B-8442-41EB-9990-7E923DA459B0",
+        "Root",
+        "HubbleTelescope",
+        "_root",
+        "shiny_panel_cylinder"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "38836A5B-8442-41EB-9990-7E923DA459B0",
+        "Root"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      }
+    ]
+  },
+  "62A848CE-9866-456F-B189-5A6821140DD7" : {
+    "objectMetadataList" : [
+      [
+        "62A848CE-9866-456F-B189-5A6821140DD7",
+        "Root"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      }
+    ]
+  },
+  "8CE7BA2D-69C3-4B7F-B917-78B7D91D0030" : {
+    "objectMetadataList" : [
+      [
+        "8CE7BA2D-69C3-4B7F-B917-78B7D91D0030",
+        "Root",
+        "lofi_model",
+        "Materials"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "8CE7BA2D-69C3-4B7F-B917-78B7D91D0030",
+        "Root"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "8CE7BA2D-69C3-4B7F-B917-78B7D91D0030",
+        "Root",
+        "lofi_model",
+        "Geom",
+        "Cylinder_001"
+      ],
+      {
+        "disallowsFraming" : false,
+        "isExpanded" : false,
+        "isLocked" : false
+      },
+      [
+        "8CE7BA2D-69C3-4B7F-B917-78B7D91D0030",
+        "Root",
+        "lofi_model"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "8CE7BA2D-69C3-4B7F-B917-78B7D91D0030",
+        "Root",
+        "lofi_model",
+        "Geom"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      }
+    ]
+  },
+  "952BA370-8552-4192-B632-454C4CEDC6AE" : {
+    "objectMetadataList" : [
+      [
+        "952BA370-8552-4192-B632-454C4CEDC6AE",
+        "Root",
+        "galaxy"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "952BA370-8552-4192-B632-454C4CEDC6AE",
+        "Root"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "952BA370-8552-4192-B632-454C4CEDC6AE",
+        "Root",
+        "galaxy",
+        "Circle"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "952BA370-8552-4192-B632-454C4CEDC6AE",
+        "Root",
+        "Material_1"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "952BA370-8552-4192-B632-454C4CEDC6AE",
+        "Root",
+        "galaxy",
+        "Cube"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "952BA370-8552-4192-B632-454C4CEDC6AE",
+        "Root",
+        "galaxy",
+        "Plane"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      }
+    ]
+  },
+  "AF832E6C-F9C6-430E-8CCE-B98FB32C286B" : {
+    "objectMetadataList" : [
+      [
+        "AF832E6C-F9C6-430E-8CCE-B98FB32C286B",
+        "Root"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "AF832E6C-F9C6-430E-8CCE-B98FB32C286B",
+        "Root",
+        "Material"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "AF832E6C-F9C6-430E-8CCE-B98FB32C286B",
+        "Root",
+        "Galaxy_Material__65_0"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "AF832E6C-F9C6-430E-8CCE-B98FB32C286B",
+        "Root",
+        "GalaxyMat"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      }
+    ]
+  },
+  "B03EE836-3C7A-4DE1-B3E5-33C9D47365D8" : {
+    "objectMetadataList" : [
+      [
+        "B03EE836-3C7A-4DE1-B3E5-33C9D47365D8",
+        "Root"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      }
+    ]
+  },
+  "BDAC7E06-DB98-47E1-AE4D-092AECD4D6D7" : {
+    "objectMetadataList" : [
+      [
+        "BDAC7E06-DB98-47E1-AE4D-092AECD4D6D7",
+        "Root",
+        "Galaxy",
+        "Meshes",
+        "Sketchfab_model",
+        "a76a404306c24e12b5edf6421ae7203f_fbx",
+        "Object_2"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "BDAC7E06-DB98-47E1-AE4D-092AECD4D6D7",
+        "Root",
+        "Galaxy",
+        "Meshes",
+        "Sketchfab_model",
+        "a76a404306c24e12b5edf6421ae7203f_fbx",
+        "Object_2",
+        "RootNode"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "BDAC7E06-DB98-47E1-AE4D-092AECD4D6D7",
+        "Root",
+        "GalaxyMat"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "BDAC7E06-DB98-47E1-AE4D-092AECD4D6D7",
+        "Root",
+        "Galaxy",
+        "Meshes",
+        "Sketchfab_model",
+        "a76a404306c24e12b5edf6421ae7203f_fbx",
+        "Object_2",
+        "RootNode",
+        "Galaxy"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "BDAC7E06-DB98-47E1-AE4D-092AECD4D6D7",
+        "Root",
+        "Galaxy",
+        "Meshes"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "BDAC7E06-DB98-47E1-AE4D-092AECD4D6D7",
+        "Root",
+        "MMorkeyy2_Galaxy"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "BDAC7E06-DB98-47E1-AE4D-092AECD4D6D7",
+        "Root",
+        "MMorkeyy2_Galaxy",
+        "Materials",
+        "Material_002"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "BDAC7E06-DB98-47E1-AE4D-092AECD4D6D7",
+        "Root",
+        "MMorkeyy2_Galaxy",
+        "Geom",
+        "disk"
+      ],
+      {
+        "disallowsFraming" : false,
+        "isExpanded" : false,
+        "isLocked" : false
+      },
+      [
+        "BDAC7E06-DB98-47E1-AE4D-092AECD4D6D7",
+        "Root"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "BDAC7E06-DB98-47E1-AE4D-092AECD4D6D7",
+        "Root",
+        "Cube"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "BDAC7E06-DB98-47E1-AE4D-092AECD4D6D7",
+        "Root",
+        "Galaxy",
+        "Meshes",
+        "Sketchfab_model",
+        "a76a404306c24e12b5edf6421ae7203f_fbx"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "BDAC7E06-DB98-47E1-AE4D-092AECD4D6D7",
+        "Root",
+        "Galaxy",
+        "Meshes",
+        "Sketchfab_model",
+        "a76a404306c24e12b5edf6421ae7203f_fbx",
+        "Object_2",
+        "RootNode",
+        "Sphere001"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "BDAC7E06-DB98-47E1-AE4D-092AECD4D6D7",
+        "Root",
+        "Galaxy"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "BDAC7E06-DB98-47E1-AE4D-092AECD4D6D7",
+        "Root",
+        "MMorkeyy2_Galaxy",
+        "Geom"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "BDAC7E06-DB98-47E1-AE4D-092AECD4D6D7",
+        "Root",
+        "Galaxy",
+        "Meshes",
+        "Sketchfab_model"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "BDAC7E06-DB98-47E1-AE4D-092AECD4D6D7",
+        "Root",
+        "Material"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "BDAC7E06-DB98-47E1-AE4D-092AECD4D6D7",
+        "Root",
+        "Galaxy",
+        "Meshes",
+        "Sketchfab_model",
+        "a76a404306c24e12b5edf6421ae7203f_fbx",
+        "Object_2",
+        "RootNode",
+        "Galaxy",
+        "Galaxy_Material__65_0"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "BDAC7E06-DB98-47E1-AE4D-092AECD4D6D7",
+        "Root",
+        "Galaxy",
+        "Materials"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "BDAC7E06-DB98-47E1-AE4D-092AECD4D6D7",
+        "Root",
+        "Galaxy",
+        "Meshes",
+        "Sketchfab_model",
+        "a76a404306c24e12b5edf6421ae7203f_fbx",
+        "Object_2",
+        "RootNode",
+        "Sphere001",
+        "Sphere001_02___Default_0"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "BDAC7E06-DB98-47E1-AE4D-092AECD4D6D7",
+        "Root",
+        "MMorkeyy2_Galaxy",
+        "Materials"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      }
+    ]
+  },
+  "C6A7F375-BFE9-46E0-9EA6-1A6B150F43FD" : {
+    "objectMetadataList" : [
+      [
+        "C6A7F375-BFE9-46E0-9EA6-1A6B150F43FD",
+        "Root",
+        "SkyDome"
+      ],
+      {
+        "disallowsFraming" : true,
+        "isExpanded" : false,
+        "isLocked" : false
+      },
+      [
+        "C6A7F375-BFE9-46E0-9EA6-1A6B150F43FD",
+        "Root"
+      ],
+      {
+        "disallowsFraming" : false,
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "C6A7F375-BFE9-46E0-9EA6-1A6B150F43FD",
+        "Root",
+        "Video_Dock"
+      ],
+      {
+        "disallowsFraming" : false,
+        "isExpanded" : true,
+        "isLocked" : false
+      }
+    ]
+  },
+  "F391FCAE-0DB9-432A-8737-033931F626ED" : {
+    "objectMetadataList" : [
+      [
+        "F391FCAE-0DB9-432A-8737-033931F626ED",
+        "Root"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      }
+    ]
+  },
+  "FF885FB4-FD78-4B1B-9881-3FEC636534A1" : {
+    "objectMetadataList" : [
+      [
+        "FF885FB4-FD78-4B1B-9881-3FEC636534A1",
+        "Root"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      }
+    ]
+  }
+}

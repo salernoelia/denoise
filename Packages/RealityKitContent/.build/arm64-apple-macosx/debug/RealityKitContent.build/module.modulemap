@@ -1,0 +1,4 @@
+module RealityKitContent {
+    header "/Users/eliasalerno/GitHub/visionos-testing/Packages/RealityKitContent/.build/arm64-apple-macosx/debug/RealityKitContent.build/RealityKitContent-Swift.h"
+    requires objc
+}
