@@ -1,0 +1,15 @@
+{
+  "originHash" : "fbbbc46ed4b9ab9cd23b6a129bb08fe69c28e888966b0b6711fccbc2c1b63b3f",
+  "pins" : [
+    {
+      "identity" : "umainspatialgestures",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Umain-Vision-Pro/UmainSpatialGestures",
+      "state" : {
+        "branch" : "main",
+        "revision" : "8366f1e2b223d2b07695c334d0050434dc6b231f"
+      }
+    }
+  ],
+  "version" : 3
+}
